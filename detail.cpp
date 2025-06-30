@@ -30,3 +30,7 @@ void addBook()
     cin >> newBook->id;
     
 }
+int func(int a){
+  a++ ;
+  return a ;
+}
